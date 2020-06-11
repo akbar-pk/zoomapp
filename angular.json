@@ -45,7 +45,7 @@
                   "with": "src/environments/environment.prod.ts"
                 }
               ],
-              "baseHref": "/zoomapp/",
+              "baseHref": "/zoomapp/docs/",
               "optimization": true,
               "outputHashing": "all",
               "sourceMap": false,
