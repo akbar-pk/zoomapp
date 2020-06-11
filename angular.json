@@ -24,8 +24,8 @@
               "src/assets",
               {
                 "glob": "**/*",
-                "input": "./node_modules/@zoomus/websdk/dist/lib/",
-                "output": "./node_modules/@zoomus/websdk/dist/lib/"
+                "input": "https://akbar-pk.github.io/docs/node_modules/@zoomus/websdk/dist/lib/",
+                "output": "https://akbar-pk.github.io/docs/node_modules/@zoomus/websdk/dist/lib/"
               }
             ],
             "styles": [
